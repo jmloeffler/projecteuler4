@@ -1,0 +1,46 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EulerProblem4/Main.cs">
+    <Files>
+      <File FileName="EulerProblem4/Main.cs" Line="21" Column="26" />
+      <File FileName="EulerProblem4.Tests/PalindromeCandidate_UT.cs" Line="22" Column="3" />
+      <File FileName="EulerProblem4/PalindromeCandidate.cs" Line="9" Column="3" />
+      <File FileName="EulerProblem4/PalindromeFinder.cs" Line="24" Column="7" />
+      <File FileName="EulerProblem4.Tests/PalindromeFinder_UT.cs" Line="17" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="EulerProblem4" expanded="True">
+            <Node name="Main.cs" selected="True" />
+          </Node>
+          <Node name="EulerProblem4.Tests" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>productArray.ToString()</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True">
+          <Node name="EulerProblem4.Tests" expanded="True">
+            <Node name="EulerProblem4" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="PalindromeCandidate_UT" expanded="True" />
+                <Node name="PalindromeFinder_UT" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
